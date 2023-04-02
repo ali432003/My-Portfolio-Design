@@ -735,7 +735,7 @@ h5{
     }
     .content .my-img {
         width: 100%;
-        transform: translate(-10%,0%);
+        transform: translate(-10%,2%);
     }
     .content .my-img img {
         width: 374px;
@@ -769,7 +769,7 @@ h5{
         margin: 0px;
     }
     .about-text h2 {
-        margin-top: 81px;
+        margin-top: 40px;
         font-size: 57px;
         font-family: verdana;
     }
